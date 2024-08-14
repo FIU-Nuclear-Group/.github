@@ -1,4 +1,8 @@
-## Hi there 👋
+## FIU Nuclear Group
+
+This is the Florida International University Nuclear Physics Group official Github. 
+
+Research code, ongoing projects and more will be stored here!
 
 <!--
 
